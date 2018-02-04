@@ -157,6 +157,14 @@ section {
 	}
 }
 
+.navbar-default .fa-facebook {
+    color: #3b5998;
+
+}
+
+.navbar-default .fa-instagram {
+    color: #fbad50;
+}
 
 
 /*--------------------
@@ -164,7 +172,7 @@ section {
 --------------------*/
 
 header {
-    background-image: url(../images/bg-main.jpg);
+    background-image: url(../images/bg2.jpg);
     background-repeat: none;
     background-attachment: scroll;
     background-position: center center;
@@ -218,7 +226,7 @@ header .intro-text .intro-heading {
 	header .intro-text .intro-heading {
 	    text-transform: uppercase;
 	    font-weight: 700;
-	    font-size: 75px;
+	    font-size: 60px;
 	    line-height: 75px;
 	    margin-bottom: 50px;
 	}
